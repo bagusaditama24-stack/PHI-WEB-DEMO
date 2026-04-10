@@ -9,9 +9,12 @@ export const mqttConfig = {
 };
 
 export const firebaseConfig = {
-    apiKey: "YOUR_FIREBASE_API_KEY",
+    apiKey: "AIzaSyCMvpMPAA9AteP6juD6jAMPxH_Cv7p4HX4",
     authDomain: "phi-3764f.firebaseapp.com",
     databaseURL: "https://phi-3764f-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "phi-3764f",
-    appId: "1:904957731712:web:e5f21e2e377dff31c49765"
+    storageBucket: "phi-3764f.firebasestorage.app",
+    messagingSenderId: "904957731712",
+    appId: "1:904957731712:web:e5f21e2e377dff31c49765",
+    measurementId: "G-CE4HWDHPRW"
 };
